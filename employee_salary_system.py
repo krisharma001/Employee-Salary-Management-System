@@ -1,14 +1,3 @@
-"""
-Employee Salary Management System
-Developed using Python, MySQL, and Pandas
-
-Features:
-- Database connection and data retrieval
-- Salary calculations (bonus, tax, net salary)
-- Automated salary slip generation
-- CSV export functionality
-"""
-
 import mysql.connector
 import pandas as pd
 import os
