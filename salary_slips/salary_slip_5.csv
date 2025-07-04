@@ -1,10 +1,2 @@
-"Field","Value"
-"Company","ABC Corporation"
-"Generated On","2025-07-04 16:08:00"
-"Pay Period","Monthly"
-"Employee ID","5"
-"Name","David Brown"
-"Basic Salary","$70,000.00"
-"Bonus","$14,000.00"
-"Tax","$15,400.00"
-"Net Salary","$68,600.00"
+Employee ID,Name,Basic Salary,Bonus Percentage,Bonus Amount,Tax Percentage,Tax Amount,Net Salary,Generated Date
+5,David Brown,70000.0,20.0%,14000.0,22.0%,15400.0,68600.0,2025-07-04 16:54:17

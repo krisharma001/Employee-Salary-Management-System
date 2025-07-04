@@ -1,10 +1,2 @@
-"Field","Value"
-"Company","ABC Corporation"
-"Generated On","2025-07-04 16:08:00"
-"Pay Period","Monthly"
-"Employee ID","3"
-"Name","Mike Davis"
-"Basic Salary","$45,000.00"
-"Bonus","$3,600.00"
-"Tax","$5,400.00"
-"Net Salary","$43,200.00"
+Employee ID,Name,Basic Salary,Bonus Percentage,Bonus Amount,Tax Percentage,Tax Amount,Net Salary,Generated Date
+3,Mike Davis,45000.0,8.0%,3600.0,12.0%,5400.0,43200.0,2025-07-04 16:54:17

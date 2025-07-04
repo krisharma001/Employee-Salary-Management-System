@@ -21,15 +21,6 @@ logger = logging.getLogger(__name__)
 
 class EmployeeSalaryManagement:
     def __init__(self, host='localhost', user='root', password='', database='employee_salary_management'):
-        """
-        Initialize the Employee Salary Management System
-        
-        Args:
-            host (str): MySQL host
-            user (str): MySQL username
-            password (str): MySQL password
-            database (str): Database name
-        """
         self.host = host
         self.user = user
         self.password = password
@@ -225,7 +216,7 @@ def main():
     salary_system = EmployeeSalaryManagement(
         host='localhost',
         user='root',
-        password='your_password',  # Update with your MySQL password
+        password='',  # Update with your MySQL password
         database='employee_salary_management'
     )
     

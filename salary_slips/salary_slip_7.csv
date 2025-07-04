@@ -1,10 +1,2 @@
-"Field","Value"
-"Company","ABC Corporation"
-"Generated On","2025-07-04 16:08:00"
-"Pay Period","Monthly"
-"Employee ID","7"
-"Name","Robert Taylor"
-"Basic Salary","$65,000.00"
-"Bonus","$11,700.00"
-"Tax","$13,000.00"
-"Net Salary","$63,700.00"
+Employee ID,Name,Basic Salary,Bonus Percentage,Bonus Amount,Tax Percentage,Tax Amount,Net Salary,Generated Date
+7,Robert Taylor,65000.0,18.0%,11700.0,20.0%,13000.0,63700.0,2025-07-04 16:54:17

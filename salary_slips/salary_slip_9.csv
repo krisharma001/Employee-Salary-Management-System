@@ -1,10 +1,2 @@
-"Field","Value"
-"Company","ABC Corporation"
-"Generated On","2025-07-04 16:08:00"
-"Pay Period","Monthly"
-"Employee ID","9"
-"Name","Christopher White"
-"Basic Salary","$58,000.00"
-"Bonus","$7,540.00"
-"Tax","$9,860.00"
-"Net Salary","$55,680.00"
+Employee ID,Name,Basic Salary,Bonus Percentage,Bonus Amount,Tax Percentage,Tax Amount,Net Salary,Generated Date
+9,Christopher White,58000.0,13.0%,7540.0,17.0%,9860.0,55680.0,2025-07-04 16:54:17

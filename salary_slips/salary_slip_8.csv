@@ -1,10 +1,2 @@
-"Field","Value"
-"Company","ABC Corporation"
-"Generated On","2025-07-04 16:08:00"
-"Pay Period","Monthly"
-"Employee ID","8"
-"Name","Jennifer Lee"
-"Basic Salary","$52,000.00"
-"Bonus","$5,720.00"
-"Tax","$7,800.00"
-"Net Salary","$49,920.00"
+Employee ID,Name,Basic Salary,Bonus Percentage,Bonus Amount,Tax Percentage,Tax Amount,Net Salary,Generated Date
+8,Jennifer Lee,52000.0,11.0%,5720.0,15.0%,7800.0,49920.0,2025-07-04 16:54:17
